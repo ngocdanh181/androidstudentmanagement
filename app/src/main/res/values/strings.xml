@@ -1,0 +1,31 @@
+<resources>
+	<string name="app_name">Student Management</string>
+	<string-array name="countries">
+		<item>An Giang</item>
+		<item>Bà Rịa - Vũng Tàu</item>
+		<item>Bắc Giang</item>
+		<item>Bắc Kạn</item>
+		<item>Bạc Liêu</item>
+		<item>Bắc Ninh</item>
+		<item>Bến Tre</item>
+		<item>Bình Định</item>
+		<item>Bình Dương</item>
+		<item>Bình Phước</item>
+		<item>Bình Thuận</item>
+		<item>Cà Mau</item>
+		<item>Cần Thơ</item>
+		<item>Cao Bằng</item>
+		<item>Đà Nẵng</item>
+		<item>Đắk Lắk</item>
+		<item>Đắk Nông</item>
+		<item>Điện Biên</item>
+		<item>Đồng Nai</item>
+		<item>Đồng Tháp</item>
+		<item>Gia Lai</item>
+		<item>Hà Giang</item>
+		<item>Hà Nam</item>
+		<item>Hà Nội</item>
+		<item>Hà Tĩnh</item>
+		<item>Hải Dương</item>
+	</string-array>
+</resources>
